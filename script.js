@@ -14,7 +14,7 @@ try {
 	let previousTag;
 
 	try {
-		previousTag = execSync(`git describe --abbrev=0 ${currentTag}^`)
+		previousTag = execSync(`git describe --tags --abbrev=0 ${currentTag}^`)
 			.toString()
 			.trim();
 	} catch {
