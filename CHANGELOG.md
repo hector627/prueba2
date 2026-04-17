@@ -1,3 +1,11 @@
+v1.1.1 - April 17, 2026
+
+* [`818af1a`](https://github.com/hector627/prueba2/commit/818af1a8da61a3de9a94c07d808b660b8a77ccac) Merge branch 'main' of github.com:hector627/prueba2 (hector cordoba)
+* [`b539f44`](https://github.com/hector627/prueba2/commit/b539f44c01893228cf5e2b7f927ed2a24fbebad6) fix: update git describe command to include tags for previous tag retrieval (hector cordoba)
+* [`e3ae31d`](https://github.com/hector627/prueba2/commit/e3ae31d28b26fc5f59bfb755ebee5bd932d4ba47) fix: update CI skip syntax in CHANGELOG update commit (hector cordoba)
+* [`ec870cb`](https://github.com/hector627/prueba2/commit/ec870cb538e2c518b86cce0e8eff723a10d5b2bc) docs: Update CHANGELOG.md for v1.1.0 (github-actions[bot])
+
+
 v1.1.0 - April 17, 2026
 
 * [`48d2333`](https://github.com/hector627/prueba2/commit/48d23337222f536a4a2b028dfc3a488fac87cee0) Merge branch 'main' of github.com:hector627/prueba2 (hector cordoba)
